@@ -1,0 +1,20 @@
+GEM
+  specs:
+    avro (1.8.1)
+      multi_json
+    json (1.8.3)
+    multi_json (1.8.2)
+    ruby-kafka (0.3.11)
+    snappy (0.0.15)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  avro
+  json
+  ruby-kafka
+  snappy
+
+BUNDLED WITH
+   1.12.5
